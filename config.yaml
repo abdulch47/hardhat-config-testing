@@ -1,0 +1,30 @@
+ownerPrivateKey: 
+AlchemyApiKey: dI0KUb7ExII5YEn9vl5-IL0tVN2YCl1f
+poolWalletAddress: '0x92A2703b5d4C6684576e92bD960B57EC356b726b'
+assetLockedWallet: '0x9c25AB838ea64E413657099adE7d59066bE6e6c9'
+jsonRpcProvider: https://polygon-mumbai.g.alchemy.com/v2/dI0KUb7ExII5YEn9vl5-IL0tVN2YCl1f
+mumbaiFactoryAddress: '0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32'
+routerAddress: '0x8954AfA98594b838bda56FE4C12a09D7739D179b'
+usdtAddress: '0x5A4Bf248536BBd50f103Fd8726a4E021CEe34186'
+amountTokenA: '100000'
+amountTokenB: '100000'
+userAddresses:
+  - address: '0xd42180C57EA797a1d8256d3d3e8afCcE6264505b'
+    key: 
+  - address: '0x9c25AB838ea64E413657099adE7d59066bE6e6c9'
+    key: 
+tokens:
+  - name: AST1TOKEN
+    symbol: AST1
+    totalSupply: 1000000000
+    ratio: 1000
+    lockedPercentage: 50
+    aatPercentage: 50
+  - name: AST2TOKEN
+    symbol: AST2
+    totalSupply: 1000000000
+    ratio: 1000
+    lockedPercentage: 50
+    aatPercentage: 50
+factoryAddress: ''
+aatTokenAddress: ''
